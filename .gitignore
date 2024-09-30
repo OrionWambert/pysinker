@@ -1,0 +1,12 @@
+config.yaml
+fake.yaml
+
+logfile.log
+pysinker_logfile.log
+*.tar
+*.zip
+.env
+
+__pycache__/**
+__pycache__/
+
