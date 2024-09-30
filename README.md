@@ -109,3 +109,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ### Contact
 If you have any questions or issues, feel free to reach out to the project maintainer at wambertorion@gmail.com.
+
+cc: https://roadmap.sh/projects/database-backup-utility
